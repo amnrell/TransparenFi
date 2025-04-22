@@ -1,0 +1,24 @@
+ <header>
+        <h1>TransparenFi</h1>
+        <nav>
+            <a href="#mission">Mission</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Empowering Government Transparency</h1>
+        <p>Our mission is to bring openness, accountability, and collaboration between citizens and government agencies.</p>
+        <div class="buttons">
+            <a href="#learn-more">Learn More</a>
+            <a href="#get-involved">Get Involved</a>
+        </div>
+    </section>
+
+    <footer>
+        &copy; 2025 TransparenFi. All rights reserved.
+    </footer>
+
+</body>
+</html>
